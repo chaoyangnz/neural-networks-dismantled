@@ -1,0 +1,2 @@
+# Neural Networks Dismantled — build dependencies
+reportlab>=4.0.0

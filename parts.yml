@@ -1,0 +1,9 @@
+# parts.yml  –  part divider configuration for build_pdf.py
+# Format:  first_chapter: [part_number, Part Title, description]
+0: [0, Preface, ""]
+1: [1, "The Orientation", "Why the field feels difficult, and the two lenses that make it navigable."]
+3: [2, "Foundations: The Anatomy of a Transformation", "The vocabulary every architecture is built from."]
+12: [3, "The Framework", "The two analytical tools that unlock any architecture."]
+14: [4, "Architectures", "Applying the framework to the canonical families."]
+22: [5, "Systems and Scale", "How models grow, how knowledge transfers, and how computation physically executes."]
+28: [6, "Reference", "Tools for applying the framework, glossary, practice maps, and reading."]
